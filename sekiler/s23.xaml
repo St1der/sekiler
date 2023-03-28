@@ -1,0 +1,17 @@
+﻿<Window x:Class="sekiler.s23"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sekiler"
+        mc:Ignorable="d"
+        Title="s23" Height="200" Width="200">
+    <Grid>
+        <Canvas>
+            <Label Canvas.Left="21" Canvas.Top="15" HorizontalAlignment="Left" VerticalAlignment="Center">Samsung Galaxy S23 Ultra</Label>
+            <Label Canvas.Left="26" Canvas.Top="41">ram 12</Label>
+            <Label Canvas.Left="32" Canvas.Top="67">nese</Label>
+            <Label Canvas.Left="35" Canvas.Top="98">2000</Label>
+        </Canvas>
+    </Grid>
+</Window>
